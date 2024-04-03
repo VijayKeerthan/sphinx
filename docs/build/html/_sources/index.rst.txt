@@ -10,6 +10,7 @@ Hello
 Welcome to my documentation using sphinx-quickstart
 
 Thank you for visiting us.
+Bye... see you later
 
 .. toctree::
    :maxdepth: 2
