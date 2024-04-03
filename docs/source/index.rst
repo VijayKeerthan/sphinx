@@ -15,6 +15,9 @@ Bye... see you later
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   intro
+   outro
 
 
 
