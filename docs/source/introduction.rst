@@ -10,8 +10,10 @@ sdbvjvlh
 kdhsgzhsghfd
 ------------
 
-regervere
-gvgrtsyys
+..note::
+
+	regervere
+	gvgrtsyys
 
 Hello
 -----
