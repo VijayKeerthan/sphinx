@@ -28,7 +28,7 @@ html_theme = 'furo'
 html_static_path = ['_static']
 html_theme_options = {
     "light_css_variables": {
-        "color-foreground-primary": "blue",
+        "color-brand-primary": "blue",
         "color-foreground-secondary": "#5a5c63",
 
     },
