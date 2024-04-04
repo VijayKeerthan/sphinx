@@ -13,6 +13,13 @@ Thank you for visiting us again.
 Bye... see you later
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   
+   introduction
+   body1
+   
+.. toctree::
    :maxdepth: 3
    :caption: Contents:
    
