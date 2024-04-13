@@ -1,8 +1,8 @@
 .. toctree::
    :maxdepth: 2
    
-   general/python_api
-   general/cpp-api
+   python_api
+   cpp-api
 
 
 ============
