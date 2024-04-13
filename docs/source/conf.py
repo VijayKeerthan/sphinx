@@ -33,3 +33,7 @@ html_logo = '_static/logo.png'
 html_css_files = {
     'css/custom.css',
 }
+
+html_sidebars = {
+   '**': ['globaltoc.html'],
+}
