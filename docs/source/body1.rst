@@ -2,8 +2,8 @@
 Body1
 =====
 
-Welcome to sphinxProject's documentation!
-=========================================
+Welcome to sphinxProject's documentation using pydata theme
+===========================================================
 
 Body 
 -----
