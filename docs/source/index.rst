@@ -12,8 +12,8 @@ Welcome to my documentation using sphinx-quickstart
 Thank you for visiting us again.
 Bye... see you later
 
-.. globaltoc::
-   :maxdepth: 2
+.. toctree::
+   :maxdepth: 1
    
    general/introduction
    general/body
