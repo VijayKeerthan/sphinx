@@ -31,5 +31,5 @@ html_theme_options = {
 }
 
 html_css_files = {
-    '_static/css/custom.css',
+    'css/custom.css',
 }
