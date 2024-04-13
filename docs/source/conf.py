@@ -29,3 +29,7 @@ html_static_path = ['_static']
 html_theme_options = {
     
 }
+
+html_css_files = [
+    'css/custom.css',
+]
