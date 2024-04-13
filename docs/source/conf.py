@@ -30,13 +30,13 @@ html_theme_options = {
     "logo": {
         "text": "Go Lego",
     },
-    'show_nav_level': '1'
 }
 html_logo = '_static/logo.png'
 html_css_files = {
     'css/custom.css',
 }
 
-html_sidebars = {
-   '**': ['globaltoc.html'],
-}
+#html_sidebars = {
+#   '**': ['globaltoc.html'],
+#}
+
