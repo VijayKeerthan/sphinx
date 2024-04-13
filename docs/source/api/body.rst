@@ -4,7 +4,7 @@ API
 .. grid::
 
     .. grid-item-card:: Python API
-        :link: python_api
+        :link: python_api.html
 
 .. grid::
 
