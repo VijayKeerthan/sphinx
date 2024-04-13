@@ -16,9 +16,10 @@ Bye... see you later
    :maxdepth: 2
    
    introduction
+   body1
    body2
-   toctree1/index
-   toctree2/index
+   toctree1/index1
+   toctree2/index2
    
 
 
