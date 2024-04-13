@@ -16,8 +16,8 @@ Bye... see you later
    :maxdepth: 2
    
    introduction
-   body1
-   body2
+   body
+   conclusion
    
 
 
