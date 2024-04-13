@@ -17,12 +17,7 @@ Bye... see you later
    :caption: Contents:
    
    introduction
-   body1
-   
-.. toctree::
-   :maxdepth: 3
-   :caption: neww:
-   
+   body1  
    body2
    
 
