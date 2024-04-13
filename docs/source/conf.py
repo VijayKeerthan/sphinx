@@ -37,6 +37,6 @@ html_css_files = {
 }
 
 html_sidebars = {
-   '**': ['localtoc.html', 'globaltoc.html'],
+   '**': ['localtoc.html'],
 }
 
