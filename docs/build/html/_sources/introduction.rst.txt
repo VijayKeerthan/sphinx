@@ -2,8 +2,8 @@
 User Guide
 ==========
 
-Welcome to 
-==========
+Welcome to new documentation
+============================
 
 sdbvjvlhaaaaa
 
