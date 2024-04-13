@@ -1,6 +1,6 @@
-=====
-Body1
-=====
+============
+Installation
+============
 
 Welcome to sphinxProject's documentation using pydata theme
 ===========================================================
