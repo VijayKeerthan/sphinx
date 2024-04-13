@@ -16,7 +16,7 @@ Bye... see you later
    :maxdepth: 1
    
    general/introduction
-   general/body
+   api/body
 
 
 Indices and tables
