@@ -36,7 +36,7 @@ html_css_files = {
     'css/custom.css',
 }
 
-#html_sidebars = {
-#   '**': ['globaltoc.html'],
-#}
+html_sidebars = {
+   '**': ['globaltoc.html'],
+}
 
