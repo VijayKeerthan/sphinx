@@ -29,7 +29,8 @@ html_static_path = ['_static']
 html_theme_options = {
     "logo": {
         "text": "Go Lego",
-    }
+    },
+    'show_nav_level': '1'
 }
 html_logo = '_static/logo.png'
 html_css_files = {
