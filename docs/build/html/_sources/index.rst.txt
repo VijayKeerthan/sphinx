@@ -15,10 +15,8 @@ Bye... see you later
 .. toctree::
    :maxdepth: 2
    
-   introduction
-   body
-   
-
+   general/introduction
+   general/body
 
 
 Indices and tables
