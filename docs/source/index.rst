@@ -14,7 +14,6 @@ Bye... see you later
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
    
    introduction
    body1  
