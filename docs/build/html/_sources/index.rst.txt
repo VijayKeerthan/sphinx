@@ -15,6 +15,8 @@ Bye... see you later
 .. toctree::
    :maxdepth: 2
    
+   introduction
+   body2
    toctree1/index
    toctree2/index
    
