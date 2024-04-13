@@ -9,11 +9,6 @@ API
 .. grid::
 
     .. grid-item-card:: CPP API
-        :link: <cpp_api>
+        :link: cpp_api.html
 
-.. toctree::
-   :maxdepth: 1
-   
-   python_api
-   cpp_api
    
