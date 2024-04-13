@@ -30,6 +30,6 @@ html_theme_options = {
     
 }
 
-html_css_files = [
+html_css_files = {
     '_static/css/custom.css',
-]
+}
