@@ -18,8 +18,6 @@ Bye... see you later
    introduction
    body1
    body2
-   toctree1/index1
-   toctree2/index2
    
 
 
