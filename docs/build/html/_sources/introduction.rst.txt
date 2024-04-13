@@ -1,7 +1,6 @@
 .. contents:: Page contents
     :local:
 	
-	introduction
 	body1
 
 ==========
