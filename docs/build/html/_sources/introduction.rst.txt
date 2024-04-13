@@ -1,7 +1,7 @@
 .. contents:: Page contents
    :local:
 	
-   body1
+body1
 
 ==========
 User Guide
